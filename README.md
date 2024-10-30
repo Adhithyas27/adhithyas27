@@ -1,4 +1,4 @@
-<h1>Hi, I'm Adhithya.S! </h1>
+<!-- <h1>Hi, I'm Adhithya.S! </h1>
 <h2>👨‍💻 Computer Science projects:</h2>
   
 - <b>Full Stack projects</b>
@@ -34,3 +34,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
