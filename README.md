@@ -1,10 +1,10 @@
-<!-- <h1>Hi, I'm Adhithya.S! </h1>
+ <h1>Hi, I'm Adhithya.S! </h1>
 <h2>👨‍💻 Computer Science projects:</h2>
   
 - <b>Full Stack projects</b>
   - [BMI calculator](https://adhithyas27.github.io/Bmi-calculator/)
   - [Dice game](https://adhithyas27.github.io/Dice/) 
-  - [Drum kit](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
+  - [Drum kit](https://adhithyas27.github.io/drumkit/)
 
 
 
