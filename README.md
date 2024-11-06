@@ -5,6 +5,7 @@
   - [BMI calculator](https://adhithyas27.github.io/Bmi-calculator/)
   - [Dice game](https://adhithyas27.github.io/Dice/) 
   - [Drum kit](https://adhithyas27.github.io/drumkit/)
+  - [Guess the number](https://adhithyas27.github.io/Guess-the-number/)
 
 
 
